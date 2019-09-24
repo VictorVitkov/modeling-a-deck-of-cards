@@ -32,6 +32,3 @@ end
 
 deck = Deck.new
 card = deck.draw!
-
-require 'pry'
-binding.pry
